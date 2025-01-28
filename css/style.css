@@ -1851,6 +1851,7 @@ form label {
   height: 100%;
   background-color: #ddd;
   z-index: 1;
+  
 }
 
 @media screen and (max-width: 768px) {
